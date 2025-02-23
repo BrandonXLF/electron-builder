@@ -1,5 +1,17 @@
 # app-builder-lib
 
+## 26.0.9
+
+### Patch Changes
+
+- [#8895](https://github.com/electron-userland/electron-builder/pull/8895) [`22da6442`](https://github.com/electron-userland/electron-builder/commit/22da64425182456eb4d1243138dde27c80d6adac) Thanks [@mmaietta](https://github.com/mmaietta)! - fix: remove Promise ability from AsyncEventEmitter as it's impossible to filter listeners by without being async
+
+- [#8885](https://github.com/electron-userland/electron-builder/pull/8885) [`4cc475ed`](https://github.com/electron-userland/electron-builder/commit/4cc475ed214861b99075d4639c92686803420174) Thanks [@mmaietta](https://github.com/mmaietta)! - fix: `node-linker=hoisted` fallback to utilize Npm module collector
+
+- Updated dependencies []:
+  - dmg-builder@26.0.9
+  - electron-builder-squirrel-windows@26.0.9
+
 ## 26.0.8
 
 ### Patch Changes

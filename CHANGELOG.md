@@ -1,3 +1,13 @@
+# [](https://github.com/electron-userland/electron-builder/compare/v26.0.8...v) (2025-02-23)
+
+
+### Bug Fixes
+
+* `AsyncEventEmitter` `filterListeners` doesn't work with promises ([#8895](https://github.com/electron-userland/electron-builder/issues/8895)) ([22da644](https://github.com/electron-userland/electron-builder/commit/22da64425182456eb4d1243138dde27c80d6adac))
+* allow usage of `node-linker=hoisted` with pnpm ([#8885](https://github.com/electron-userland/electron-builder/issues/8885)) ([4cc475e](https://github.com/electron-userland/electron-builder/commit/4cc475ed214861b99075d4639c92686803420174))
+
+
+
 # [](https://github.com/electron-userland/electron-builder/compare/v26.0.7...v) (2025-02-21)
 
 
